@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+require('${1:module}')${0}
+]]></content>
+    <tabTrigger>req</tabTrigger>
+    <scope>source.js</scope>
+    <description>commonjs require</description>
+</snippet>
